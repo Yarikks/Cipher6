@@ -1,0 +1,14 @@
+C:\Users\artes\source\repos\SecurityLab_6\SecurityLab_6\obj\Debug\SecurityLab_6.csprojAssemblyReference.cache
+C:\Users\artes\source\repos\SecurityLab_6\SecurityLab_6\obj\Debug\SecurityLab_6.csproj.CoreCompileInputs.cache
+C:\Users\artes\source\repos\SecurityLab_6\SecurityLab_6\bin\Debug\SecurityLab_6.exe.config
+C:\Users\artes\source\repos\SecurityLab_6\SecurityLab_6\bin\Debug\SecurityLab_6.exe
+C:\Users\artes\source\repos\SecurityLab_6\SecurityLab_6\bin\Debug\SecurityLab_6.pdb
+C:\Users\artes\source\repos\SecurityLab_6\SecurityLab_6\obj\Debug\SecurityLab_6.exe
+C:\Users\artes\source\repos\SecurityLab_6\SecurityLab_6\obj\Debug\SecurityLab_6.pdb
+C:\Users\Yorik\Desktop\SecurityLab_6\SecurityLab_6\bin\Debug\SecurityLab_6.exe.config
+C:\Users\Yorik\Desktop\SecurityLab_6\SecurityLab_6\bin\Debug\SecurityLab_6.exe
+C:\Users\Yorik\Desktop\SecurityLab_6\SecurityLab_6\bin\Debug\SecurityLab_6.pdb
+C:\Users\Yorik\Desktop\SecurityLab_6\SecurityLab_6\obj\Debug\SecurityLab_6.csprojAssemblyReference.cache
+C:\Users\Yorik\Desktop\SecurityLab_6\SecurityLab_6\obj\Debug\SecurityLab_6.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\SecurityLab_6\SecurityLab_6\obj\Debug\SecurityLab_6.exe
+C:\Users\Yorik\Desktop\SecurityLab_6\SecurityLab_6\obj\Debug\SecurityLab_6.pdb
